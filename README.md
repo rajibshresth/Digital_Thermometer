@@ -26,3 +26,6 @@
 
 ## Circuit Layout
 ![image](https://user-images.githubusercontent.com/48651522/112644351-6b6fca80-8e6d-11eb-8ac5-646f58869f6d.png)
+
+## Video Link
+https://youtu.be/0axlSElDRIk
