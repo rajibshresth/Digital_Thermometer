@@ -1,12 +1,12 @@
 # Digital_Thermometer
 
 ## Required Parts
-Arduino UNO Board
-Bread Board
-Jumper wires
-16x2 LCD Display
-LM35 temperature sensor 
-50k-ohm potentiometer
+* Arduino UNO Board
+* Bread Board
+* Jumper wires
+* 16x2 LCD Display
+* LM35 temperature sensor 
+* 50k-ohm potentiometer
 
 ## The Build
 |LCD Display | Arduino|
